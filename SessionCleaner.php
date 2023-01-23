@@ -1,5 +1,12 @@
 <?php
 
+/**
+* SessionCleaner
+*
+* @author [ramazancetinkaya]
+* @date [23.01.2023]
+*/
+
 class SessionCleaner
 {
     public function clear()
