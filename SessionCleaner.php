@@ -25,7 +25,3 @@ class SessionCleaner
         }
     }
 }
-
-// You can use this class in your code like this:
-$sessionCleaner = new SessionCleaner();
-$sessionCleaner->clear();
